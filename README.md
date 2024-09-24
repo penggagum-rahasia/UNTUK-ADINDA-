@@ -9,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             text-align: center;
             color: white;
-            background: url('https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080') no-repeat center center fixed;
+            background: url('[https://images.unsplash.com/photo-1517649763962-0c623066013b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080](https://images.app.goo.gl/nUvVYumKzUTWyR8f7)') no-repeat center center fixed;
             background-size: cover;
             height: 100vh;
             margin: 0;
