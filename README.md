@@ -54,7 +54,7 @@
             Aku harap kita bisa bersama melukis cerita yang indah. Apakah kamu bersedia untuk menjadi bagian dari hidupku?
         </p>
         <footer>
-            Dibuat dengan sepenuh hati oleh N
+            Dibuat dengan sepenuh hati oleh Rahasia
         </footer>
     </div>
 
